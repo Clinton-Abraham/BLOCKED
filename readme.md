@@ -2,7 +2,7 @@
 
 ``` python
 
-file_location = 'blocking.txt'
+file_location = 'blocked.txt'
 
 my_file = open(file_location, "r")
 
